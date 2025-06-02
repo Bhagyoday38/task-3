@@ -61,8 +61,10 @@ applicable]
 • Software Upgrade: Upgrade any flagged outdated services. 
 • Configuration Fixes: Disable or restrict risky services (e.g., SMBv1, telnet). 
 • Firewall Rules: Harden perimeter using proper port filtering. 
-7. Screenshot of Scan Result 
-8. Conclusion 
+7. Screenshot of Scan Result
+   ![Screenshot 2025-06-02 163321](https://github.com/user-attachments/assets/c9ae65cc-c900-48c6-b501-4d4a47ffe396)
+
+9. Conclusion 
 This scan helped identify several vulnerabilities in the local machine. Immediate action 
 should be taken for critical and high-severity issues. Regular scans are recommended as part 
 of a proactive security posture.
